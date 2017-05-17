@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="33"
-   height="33"
-   viewBox="0 0 33 33"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    sodipodi:docname="efi.svg"
    inkscape:version="0.92.1 unknown"
    inkscape:export-filename="/home/beerto/Pictures/Graphics/Linux/Manjaro/pngs/efi.png"
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,12 +48,12 @@
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:zoom="5.7673397"
-     inkscape:cx="-6.2504824"
+     inkscape:cx="37.530535"
      inkscape:cy="-4.5036618"
      inkscape:current-layer="svg2" />
   <path
      style="fill:#ff9000;fill-opacity:1;stroke:none;stroke-width:1.37279093"
-     d="m 3.4588189,1.4423111 c 3.600373,9.1879979 4.4142399,19.0326939 0,30.1153779 L 29.541181,16.5 Z M 14.21431,12.993544 h 2.321109 2.769745 v 1.931503 h -2.769745 v 0.536003 h 2.769745 v 1.929141 h -2.769745 v 2.519453 H 14.21431 V 17.390191 15.46105 14.925047 Z m -5.390732,0.03778 h 2.318746 2.772108 v 1.929141 h -2.772108 v 0.538365 h 2.772108 v 1.929141 h -2.772108 v 0.536004 h 2.772108 v 1.929141 H 8.823578 V 18.927364 17.963975 17.427971 15.49883 14.960465 Z m 10.727157,0.05903 h 2.321107 v 6.9161 h -2.321107 z"
+     d="m 2.9588188,0.94231118 c 3.600373,9.18799782 4.4142399,19.03269382 0,30.11537782 L 29.041181,16 Z M 13.71431,12.493544 h 2.321109 2.769745 v 1.931503 h -2.769745 v 0.536003 h 2.769745 v 1.929141 h -2.769745 v 2.519453 H 13.71431 V 16.890191 14.96105 14.425047 Z m -5.3907321,0.03778 h 2.3187461 2.772108 v 1.929141 h -2.772108 v 0.538365 h 2.772108 v 1.929141 h -2.772108 v 0.536004 h 2.772108 v 1.929141 H 8.3235779 V 18.427364 17.463975 16.927971 14.99883 14.460465 Z m 10.7271571,0.05903 h 2.321107 v 6.9161 h -2.321107 z"
      id="path4487"
      inkscape:connector-curvature="0" />
 </svg>

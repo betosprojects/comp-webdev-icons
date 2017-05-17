@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="33"
-   height="33"
-   viewBox="0 0 33 33"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    sodipodi:docname="help3.svg"
    inkscape:export-filename="/home/beerto/Pictures/Ink/Linux/Manjaro/pngs/help3.png"
    inkscape:export-xdpi="96"
@@ -48,23 +48,22 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="5.2149126"
-     inkscape:cx="-55.974038"
+     inkscape:cx="-7.5552018"
      inkscape:cy="0.43501046"
      inkscape:current-layer="svg2"
      inkscape:snap-global="false" />
   <g
      aria-label="?"
-     transform="matrix(1.3912553,0,0,0.94289113,-2.5613723,-0.657245)"
+     transform="matrix(1.3912553,0,0,0.94289113,-2.5613723,-1.657245)"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.65782547px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81644559"
      id="text4493" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="icon"
-     transform="translate(0,1)" />
+     inkscape:label="icon" />
   <g
      aria-label="?"
-     transform="matrix(1.3803116,0,0,0.70207997,-36.47575,-4.9264144)"
+     transform="matrix(1.3803116,0,0,0.70207997,-36.97575,-5.4264144)"
      style="font-style:normal;font-weight:normal;font-size:28.527565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9000;fill-opacity:1;stroke:none;stroke-width:0.71318913"
      id="text4488"
      inkscape:export-filename="/home/beerto/Pictures/Ink/Linux/Manjaro/pngs/help3.png"

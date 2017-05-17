@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="33"
-   height="33"
-   viewBox="0 0 33 33"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    sodipodi:docname="unset.svg"
    inkscape:version="0.92.1 unknown"
    inkscape:export-filename="/home/beerto/Pictures/Graphics/Linux/Manjaro/pngs/unset.png"
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,12 +48,12 @@
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:zoom="8.15625"
-     inkscape:cx="-17.294495"
-     inkscape:cy="5.4400148"
+     inkscape:cx="16.912401"
+     inkscape:cy="7.524306"
      inkscape:current-layer="svg2" />
   <path
-     style="fill:#ff9000;fill-opacity:1;stroke:none;stroke-width:1.38990033px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 13.093117,6.3173512 2.951187,16.456566 12.835225,26.682649 H 30.048813 V 6.3173512 Z m 4.756065,4.0611148 3.469321,3.474751 3.472037,-3.474751 2.649497,2.649498 -3.472036,3.469321 3.472036,3.474751 -2.649497,2.649498 -3.469322,-3.474751 -3.472036,3.474751 -2.649498,-2.649498 3.472037,-3.469322 -3.472037,-3.47475 z M 10.875247,14.45044 A 2.1689554,2.0484578 0 0 1 13.044253,16.5 2.1689554,2.0484578 0 0 1 10.875247,18.549559 2.1689554,2.0484578 0 0 1 8.7062426,16.5 2.1689554,2.0484578 0 0 1 10.875247,14.45044 Z"
+     style="fill:#ff9100;fill-opacity:1;stroke:none;stroke-width:1.38990033px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 12.593117,5.8173513 2.451187,15.956566 12.335225,26.182649 H 29.548813 V 5.8173513 Z m 4.756065,4.0611146 3.469321,3.4747511 3.472037,-3.4747511 2.649497,2.6494981 -3.472036,3.469321 3.472036,3.474751 -2.649497,2.649498 -3.469322,-3.474751 -3.472036,3.474751 -2.649498,-2.649498 3.472037,-3.469322 -3.472037,-3.47475 z M 10.375247,13.95044 A 2.1689554,2.0484578 0 0 1 12.544253,16 2.1689554,2.0484578 0 0 1 10.375247,18.049559 2.1689554,2.0484578 0 0 1 8.2062426,16 2.1689554,2.0484578 0 0 1 10.375247,13.95044 Z"
      id="path4482"
      inkscape:connector-curvature="0" />
 </svg>
